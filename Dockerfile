@@ -1,5 +1,5 @@
-FROM binhex/arch-openvpn:2.3.9-103
-MAINTAINER jshridha
+FROM binhex/arch-openvpn:2018040901
+MAINTAINER dan040790
 ENV NZBGET_VERSION=19.1-1
 # additional files
 ##################
